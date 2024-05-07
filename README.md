@@ -1,13 +1,12 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Sepehr</h1>
+<h3 align="center">A NodeJS Backend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SepehrYahyaee&label=Profile%20views&color=0e75b6&style=flat" alt="SepehrYahyaee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SepehrYahyaee&theme=" alt="SepehrYahyaee" /></a> </p>
-
 - 🔭 I’m currently working on [a Discord BOT app](https://github.com/SepehrYahyaee/DiscordBOT)
-- 🌱 I’m currently learning **NestJS and TypeScript**
+- 🌱 I’m currently learning **NestJS** and **TypeScript**
 
-- 📫 How to reach me **7heycallmegray@gmail.com**
+- 📫 How to reach me: **7heycallmegray@gmail.com**
 - ⚡ Fun fact **ain't nothing fun around here**
 
 <div> <a href="https://www.linkedin.com/in/sepehr-yahyaee-3371922ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
