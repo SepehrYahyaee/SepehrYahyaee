@@ -3,15 +3,11 @@
 <h3 align="center">A NodeJS Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SepehrYahyaee&label=Profile%20views&color=0e75b6&style=flat" alt="SepehrYahyaee" /> </p>
 
-- 🔭 I’m currently working on [a Discord BOT app](https://github.com/SepehrYahyaee/DiscordBOT)
-- 🌱 I’m currently learning **NestJS** and **TypeScript**
+- I am learning **NestJS** right now.
+- Email me for contact: **7heycallmegray@gmail.com**
+- Explore my Repositories, there would be some projects there and feel free to ask me anything related.
 
-- 📫 How to reach me: **7heycallmegray@gmail.com**
-- ⚡ Fun fact **My codes typically have O(n!) time complexity if you know what I mean.**
-
-<div> <a href="https://www.linkedin.com/in/sepehr-yahyaee-3371922ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/SepehrYahyaee" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/sepehryahyaee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
 <a href = "mailto:7heycallmegray@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,13 +30,3 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrYahyaee&langs_count=8&theme=transparent" alt=SepehrYahyaee />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/SepehrYahyaee">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SepehrYahyaee&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SepehrYahyaee&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SepehrYahyaee&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SepehrYahyaee&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SepehrYahyaee&theme=transparent" height="180em" />
-</div>
