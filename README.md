@@ -1,10 +1,8 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Sepehr</h1>
-<h3 align="center">A NodeJS Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SepehrYahyaee&label=Profile%20views&color=0e75b6&style=flat" alt="SepehrYahyaee" /> </p>
+<h3 align="center">A NodeJS Backend Developer</h3>
 
 - I am learning **NestJS** right now.
-- Email me for contact: **7heycallmegray@gmail.com**
+- Contact me via email: **7heycallmegray@gmail.com** or use the banner below.
 - Explore my Repositories, there would be some projects there and feel free to ask me anything related.
 
 <div>
@@ -28,5 +26,4 @@
 </div>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrYahyaee&langs_count=8&theme=transparent" alt=SepehrYahyaee />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrYahyaee&langs_count=8&theme=transparent" alt=SepehrYahyaee />
