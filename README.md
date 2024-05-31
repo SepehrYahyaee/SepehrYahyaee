@@ -20,6 +20,7 @@
 <h3 align="left">My Stack:</h3>
 <p align="left">
 <div>
+  
 [![Languages and Frameworks](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs)](https://skillicons.dev)
 
 [![Datebases and ORMs](https://skillicons.dev/icons?i=mongo,postgres,mysql,redis,prisma)](https://skillicons.dev)
@@ -27,6 +28,7 @@
 [![DevOps](https://skillicons.dev/icons?i=docker,postman,git,linux,ubuntu)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=npm,yarn,pnpm,md,github)](https://skillicons.dev)
+
 </div>
 </p>
 
