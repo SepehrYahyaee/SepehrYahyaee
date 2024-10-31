@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sepehr</h1>
 <h3 align="center">A NodeJS Backend Developer</h3>
 
-- I am learning **NestJS** right now.
+- I am currently learning (geeking) **NestJS**.
 - Contact me via email: **7heycallmegray@gmail.com** or use the banner below.
-- Explore my Repositories, there would be some projects there and feel free to ask me anything related.
+- Explore my repositories, there would be some projects there and feel free to ask me anything related.
 
 <div>
 
@@ -11,7 +11,6 @@
 
   
 <a href = "mailto:7heycallmegray@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" target="_blank"></a>
-<a href = "https://t.me/SepehrYhY"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sepehr-yahyaee-3371922ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="sepehr-yahyaee-3371922ba" height="30" width="40" /></a><a href="https://www.leetcode.com/SepehrYahyaee" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="SepehrYahyaee" height="30" width="40" /></a><a href="https://stackoverflow.com/users/23586275/sepehr-yahyaee" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="23586275/sepehr-yahyaee" height="30" width="40" /></a><a href="https://medium.com/@7heycallmegray" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@7heycallmegray" height="30" width="40" /></a></p>
