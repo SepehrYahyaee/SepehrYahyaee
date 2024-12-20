@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sepehr</h1>
 <h3 align="center">A NodeJS Backend Developer</h3>
 
-- I am currently learning (geeking) **NestJS**.
+- I am currently learning (geeking) **Go** language.
 - Contact me via email: **7heycallmegray@gmail.com** or use the banner below.
 - Explore my repositories, there would be some projects there and feel free to ask me anything related.
 
